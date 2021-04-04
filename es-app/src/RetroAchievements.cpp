@@ -31,6 +31,7 @@ const std::map<PlatformId, unsigned short> cheevosConsoleID
 	{ NINTENDO_ENTERTAINMENT_SYSTEM, 7 },
 	{ TURBOGRAFX_16, 8 },
 	{ TURBOGRAFX_CD, 8 },
+	{ MEGA_CD, 9 },
 	{ SEGA_CD, 9 },
 	{ SEGA_32X, 10 },
 	{ SEGA_MASTER_SYSTEM, 11 },
